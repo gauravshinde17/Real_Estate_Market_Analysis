@@ -106,7 +106,7 @@ This PDF contains **all 15+ dashboard pages**.
 - Clear storytelling with numbers significantly improves dashboard interpretability.
 
 ---
-## Project Documentation (Direct Access)
+## Project Documentation
 
 - 📄 **Case Study (End-to-End Analysis):**  
   [Real_Estate_Case_Study.docx](03_Documentation/Real_Estate_Case_Study.docx)
